@@ -19,6 +19,7 @@ It will give basic information such as the starting address, end address and mod
 
 ```
 Enter the process name, including the .exe
+Example: chrome.exe
 ```
 ## Demonstration
 https://user-images.githubusercontent.com/116961227/221386497-e1fe3f36-fd8c-4036-ba92-23463ffe3eeb.mp4
