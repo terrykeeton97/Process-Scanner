@@ -6,6 +6,7 @@
   <img src="https://camo.githubusercontent.com/4caf9d14d59a3f73a89fd007854441d3869e6f725cc7363a41d6775a804b3a8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f617263682d7838362d7265642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6170707665796f72">
 </p>
 
+![process scanner github banner](https://user-images.githubusercontent.com/116961227/221389837-840f3c9a-e316-440e-8237-870e630d67f8.png)
 
 # 📖 Project Overview
 Process Scanner is a C++ tool that will scan the process for current loaded modules.
